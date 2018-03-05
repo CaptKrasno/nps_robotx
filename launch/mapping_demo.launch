@@ -11,4 +11,6 @@
     <node name="rviz" pkg="rviz" type="rviz"  args="-d $(find multibeam_process)/config/mapping_config.rviz"/>
 
 
+
+
 </launch>
